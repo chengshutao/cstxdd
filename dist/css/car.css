@@ -1,0 +1,520 @@
+#car_t{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    background: #fff;
+    position: relative;
+    width: 100%;
+}
+.logogg{
+    z-index: 999;
+    width: 318px;
+    height: 65px;
+    position: absolute;
+    left: 4px;
+    top: 11px;
+    background: url(../images/logocn_1213.png) no-repeat;
+}
+.cb_3 a:hover{
+        text-decoration: underline;
+}
+.top{
+        height: 86px;
+        position: relative;
+}
+.aab{
+    margin-right: 10px;
+}
+
+.top_r{
+    width: 451px;
+    height: 85px;
+    background: white;
+    line-height: 43px;
+    color: #808080;
+    margin-right: 20px;
+}
+.mydenglu{
+    width: 100%;
+    height: 170px;
+    line-height: 170px;
+    text-align: center;
+    background: white;
+}
+.top_rt{
+    line-height: 43px;
+}
+.top_rt a{
+    font-size: 12px;
+   vertical-align: middle;
+    color: #666666;
+}
+.cartBox .order_content .mydenglu a{
+    display: inline-block;
+    color: blue;
+}
+.top_r img{
+  position: absolute;
+  right: 0;
+  top: 10px;
+}
+.top_rt{
+    font-size: 12px;
+}
+.top_rb{
+    font-size: 12px;
+    text-align: right;
+}
+.dindang{
+    /* background: orange; */
+    position: absolute;
+    left: 50%;
+    top: 150px;
+    margin-left: -375px;
+    z-index: 999;
+    font-size: 13px;
+}
+
+.dindang .shang span{
+    background-position: center 0
+}
+.stem span{
+    background-image: url(../images/tisdian.jpg);
+    background-repeat: no-repeat;
+    background-position: center -19px;
+    display: block;
+    height: 19px;
+    width: 28px;
+    margin: 5px auto 12px auto;
+}
+.stem{
+    width: 237px;
+    text-align: center;
+}
+#car_c{
+    border-top: 1px solid #ededed;
+    /* height: 100%; */
+    margin-top: 48px;
+}
+.gowuche{
+    margin-bottom: 60px;
+    border: 1px solid #ccc;
+}
+.gwcsp{
+    /* background: orange; */
+    border: 1px solid #cccccc;
+}
+
+.gwsp{
+   
+    height: 300px;
+}
+
+.gwsp li{
+    float: left;
+    width: 20%;
+    height: 300px;
+    box-sizing: border-box;
+    padding: 10px 20px;
+}   
+table{
+    width: 100%;
+}
+.gwsp li{
+    text-align:center;
+}
+
+.productname{
+    height: 40px;
+    overflow: hidden;
+}
+.productname a{
+    text-decoration: none;
+    color: #666;
+    font-size: 12px;
+}
+.productname a:hover{
+    text-decoration: underline;
+    color: blue;
+}
+.gwsp li>p{
+    color: #f60;
+    text-align: left;
+    margin-top: 36px;
+}
+.jiarug{
+    background: #fff;
+    border: 1px solid #838383;
+    color: #000;
+    font-weight: normal;
+    padding: 0 10px;
+    height: 23px;
+    line-height: 24px;
+    font-size: 12px;
+    display: inline-block;
+    margin-top: 32px;
+}
+#car_b{
+    padding-top: 25px;
+    clear: both;
+    font-size: 0;
+    padding: 80px 0 30px;
+    text-align: center;
+}
+#car_b p{
+    font-size: 12px;
+    padding: 0 0 10px
+}
+#car_b a{
+    color: #484848;
+}
+#car_b a:hover{
+    text-decoration: underline;
+}
+#car_b p span{
+    margin: 0 2px
+}
+
+.qiangoud>span{
+    color: #f60;
+    display: inline-block;
+    text-align: center;
+    padding: 0 20px;
+    font-size: 14px;
+    height: 32px;
+    line-height: 32px;
+    width: 80px;
+}
+.tiaose{
+    height: 2px;
+    line-height: 2px;
+    overflow: hidden;
+    background-color: #ccc;
+    padding: 0;
+    margin: 0
+}
+.tiaotaose{
+    float: left;
+    background-color: #f60;
+    height: 2px;
+    line-height: 2px;
+    padding: 0 20px;
+    margin: 0;
+    overflow: hidden;
+    color: #ccc;
+    width: 80px
+}
+.gowuche{
+    margin-top: 108px;
+    border: 1px solid #cccccc;
+}
+.wdgwc{
+    border-bottom: 1px solid #ccc;
+    height: 32px;
+    line-height: 32px;
+}
+.ml10{
+    margin-left: 10px;
+}
+.aaad{
+    height: 190px;
+    text-align: center;
+    line-height: 190px;
+}
+.main{
+    width: 100%;
+}
+.main .contaient{
+    height: auto;
+    margin: 0 auto;
+}
+.main .contaient .cartitle{
+    margin-top: 15px;
+    height: 45px;
+    line-height: 45px;
+}
+.main .contaient .cartitle h1{
+    font-size: 18px;
+    color: #666666;
+    font-weight: 600;
+}
+.main .contaient .cartitle b{
+    color: #ca0808;
+    font-size: 12px;
+    margin-left: 15px;
+}
+.main .contaient .cartitle .endbtn{
+    display: block;
+    width: 125px;
+    height: 35px;
+    background: url(../images/bg_new.gif)no-repeat 0 -102px;
+    border-radius: 10px;
+}
+.main .contaient .goods{
+    border-top: 2px solid #c90809;
+    box-sizing: border-box;
+    /* background: blueviolet; */
+    border-right: 1px solid #eaeaea;
+    border-bottom: 1px solid #eaeaea;
+    border-left:1px solid #eaeaea;
+}
+.main .contaient .goods .settle{
+    border: 1px solid #EAEAEA;
+}
+.main .contaient .goods .settle>input{
+    margin: 12px 3px 0 13px;
+}
+.main .contaient .goods .settle>dd{
+    width: 100px;
+    display: inline-block;
+    cursor: pointer;
+    line-height: 34px;
+}
+.main .contaient .goods .settle>dd:nth-child(3){
+    width: 432px;
+}
+.main .contaient .goods .settle .s1{
+    width: 80px;
+    text-align: center;
+}
+.main .contaient .goods .settle .s2{
+    width: 86px;
+    text-align: center;
+}
+.main .contaient .goods .settle .s3{
+    width: 280px;
+    text-align: center;
+    /* margin-right: 105px; */
+}
+.main .contaient .goods .settle .s4{
+    width: 70px;
+    text-align: center;
+}
+.main .contaient .goods .settle .s5{
+    width: 197px;
+    text-align: center;
+}
+.main .contaient .goods .settle>span{
+    margin-left: 10px;
+    margin-right: 4px;
+}
+
+.main .contaient #card_goods{
+    height: auto;
+    padding: 0 11px 5px;
+}
+.main .contaient #card_goods .cart_goods_area .cb_1{
+    width: 48px;
+    text-align: left;
+}
+.del_opt a img{
+    width: 20px;
+    height: 20px;
+}
+.del_opt{
+    margin-left: 7px;
+}
+.main .contaient #card_goods .cart_goods_area .cb_2{
+    padding: 10px 0;
+}
+.main .contaient #card_goods .cart_goods_area .cb_2 img{
+    width: 50px;height: 50px;
+}
+.main .contaient #card_goods .cart_goods_area .cb_3{
+   width: 342px;
+   text-align: left;
+   line-height: 18px;
+}
+.main .contaient #card_goods .cart_goods_area .cb_4{
+    width: 212px;
+    text-align: center;
+ }
+ .main .contaient #card_goods .cart_goods_area .cb_5{
+    width: 89px;
+    height: 70px;
+    text-align: center;
+    color: red;
+ }
+ .main .contaient #card_goods .cart_goods_area .cb_6{
+    width: 150px;
+    padding-left: 34px;
+    box-sizing: border-box;
+ }
+ .main .contaient #card_goods .cart_goods_area .cb_6 .cutnum,.addnum{
+    display: block;
+    width: 25px;
+    font-size: 15px;
+    height: 24px;
+    border: 1px solid #eaeaea;
+    text-align: center;
+    line-height: 22px;  
+    float: left;
+    cursor: pointer;
+ }
+ .main .contaient #card_goods .cart_goods_area .cb_6 .nownum{
+     color: #666;
+    height: 24px;
+    width: 42px;
+    outline: 0;
+    border: none;
+    text-align: center;
+    line-height: 24px;
+    border: 1px solid #eaeaea;
+    border-right: none;
+    border-left: none;
+    cursor: pointer;
+ }
+ .main .contaient #card_goods .cart_goods_area .cb_7{
+     width: 211px;
+     text-align: center;
+     padding-left: 20px;
+    box-sizing: border-box;
+ }
+ .main .contaient #card_goods .cart_goods_area .cb_7 #sum b{
+    color: #CA0809;
+    font-size: 12px;
+ }
+ .main .contaient #card_goods .cart_goods_area .cb_8{
+     width: 99px;
+     height: 70px;
+    box-sizing: border-box;
+     /* text-align: center; */
+ }
+ .main .contaient #card_goods .cart_goods_area .cb_8 span>a{
+     font-size: 12px;
+     color: #666;
+     margin-left: 4px;
+ }
+ .main .contaient #card_goods .cart_goods_area .cb_8 span>a:hover{
+     color: #cf0404;
+    text-decoration: underline;
+}
+
+.main .contaient .send{
+    height: 94px;
+}
+.main .contaient .send .wares{
+    height: 43px;
+    background: #f6f6f6;
+    border: 1px solid #eaeaea;
+    border-top: none;
+    line-height: 43px;
+    padding-left: 20px;
+    box-sizing: border-box;
+}
+.main .contaient .send .dele{
+    height: 50px;
+    border: 1px solid #eaeaea;
+    border-top: none;
+    line-height: 50px;
+}
+.main .contaient .send .dele .dele_box input{
+    margin-left: 10px;
+    margin-right: 4px;
+}
+.main .contaient .send .dele .dele_box>a{
+    color: #666666;
+    margin-left: 30px;
+}
+.main{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.main .contaient .send .dele .dele_box>a:hover{
+    color: #cf0404;
+    text-decoration: underline;
+}
+.main .contaient .send .dele .dele_price #playmoney{
+    color: #CA0809;
+    font-size: 27px;
+    font-weight: 700;
+    margin-right: 22px;
+}
+.main .contaient .jxshop{
+    height: 60px;
+    padding-top: 20px;
+}
+.main .contaient .jxshop .againshop{
+    display: block;
+    width: 100px;
+    background: url(../images/bg_new.gif)no-repeat -124px -102px;
+    height: 35px;
+    line-height: 35px;
+}
+.main .contaient .jxshop .tip{
+    background: url(../images/bg_new.gif)no-repeat -423px -417px;
+    display: inline-block;
+    padding-left: 20px;
+    margin-left: 15px;
+    line-height: 35px;
+}
+.main .contaient .jxshop .close{
+    display: block;
+    width: 124px;
+    height: 34px;
+    background: url(../images/bg_new.gif)no-repeat 0 -102px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.main .contaient .need_box{
+    height: 559px;
+    /* background: oldlace; */
+}
+.main .contaient .need_box h2{
+    color: #999;
+    font-family: "微软雅黑","黑体";
+    font-size: 18px;
+    font-weight: 700;
+    height: 40px;
+    line-height: 40px;
+    width: 960px;
+    border: 1px solid #eaeaea;
+    padding-left: 14px;
+    box-sizing: border-box;
+    background: #f8f8f8;
+}
+.main .contaient .need_box dd{
+    background-color: #FFF;
+    border-color: #EAEAEA;
+    border-right: 1px solid #EAEAEA;
+    border-style: none solid solid;
+    border-width: medium 1px 1px;
+    height: 459px;
+    padding: 20px 0;
+
+}
+.main .contaient .need_box dd>ul{
+    width: 158px;
+    height: 233px;
+    float: left;
+    text-align: center;
+    border-right: 1px solid #eaeaea
+}
+.main .contaient .need_box dd>ul>li>img{
+    width: 100px;
+    height: 100px;
+}
+.main .contaient .need_box dd>ul .goods_name{
+    line-height: 20px;
+    height: 40px;
+    padding: 0 10px 0 12px;
+    margin-top: 10px;
+}
+.main .contaient .need_box dd>ul .goods_name:hover{
+    color: #cf0404;
+    text-decoration: underline;
+}
+.main .contaient .need_box dd>ul .goods_price{
+    line-height: 20px;
+    font-family: Arial;
+    color: #C90809;
+    margin-top: 5px;
+}
+.main .contaient .need_box dd>ul .goods_btn>a{
+    display: block;
+    width: 120px;
+    height: 29px;
+    /* line-break: 28px; */
+    margin-left: 28px;
+    margin-top: 12px;
+    background: url(../images/bg_new.gif)no-repeat -262px -209px;
+}

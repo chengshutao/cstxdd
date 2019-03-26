@@ -1,0 +1,156 @@
+
+.header_c {
+    position: absolute;
+    left: 368px;
+    height: 34px;
+    top: 19px;
+    width: 441px;
+}
+.header_titli{
+    float: left;
+    font: 24px/49px microsoft yahei;
+    margin: -3px 0 0 25px;
+    padding-left: 26px;
+    border-left: 1px solid #D9D9D9;
+    color: #484848;
+}
+#step1{
+    height: 491px;
+    background: #F9F9F9;
+    overflow: hidden;
+}
+.step1_top{
+    line-height: 30px;
+    font-size: 12px;
+    height: 30px;
+}
+.step1_bottom{
+    height: 491px;
+    background: #F9F9F9;
+    overflow: hidden;
+    margin-top: 20px;
+}
+.step2{
+    margin: 20px auto;
+    background: url(https://s.neweggimages.com.cn/WebResources/2009/Default/Nest/icon/register_step.png) no-repeat center;
+    width: 655px;
+    height: 30px;
+    background-position: 0 0;
+}
+.step3{
+    position: relative;
+    text-align: center;
+    margin-top: 40px;
+}
+.register_con_box{
+    text-align: center;
+    position: relative;
+    margin-bottom: 25px;
+}
+#txtPhone{
+    height: 30px;
+    width: 255px;
+    line-height: 30px;
+    border: 1px solid #cfcfcf;
+    text-indent: 5px;
+    overflow: hidden;
+    background: #F9F9F9;
+}
+.register_con_box{
+    label{
+        display: inline-block;
+        width: 73px;
+        text-align: left;
+        font-size: 12px;
+    }
+    a{
+        font-size: 12px;
+        color: #cccccc;
+    }
+}
+#txtCodeForEmail{
+    height: 30px;
+    width: 128px;
+    line-height: 30px;
+    border: 1px solid #cfcfcf;
+    text-indent: 5px;
+    overflow: hidden;
+    background: #F9F9F9;
+    vertical-align: middle;
+    margin-right: 5px;
+    text-align: center;
+}
+.register_con_box{
+    .suiji{
+     display: inline-block;
+    height: 31px;
+    width: 115px;
+    vertical-align: middle;
+    border: 1px solid #cfcfcf;
+    background: url(../images/suijibeij.png);
+    line-height: 31px;
+    color: #58bc58;
+    }
+}
+.register_con_box .huanyizhang{
+    position: absolute;
+    color: black;
+    top: 8px;
+}
+.code_btn_0{
+    width: 250px;
+    height: 32px;
+    line-height: 32px;
+    text-align: center;
+    border: 1px solid #868686;
+    cursor: pointer;
+    background: #E1E1E1;
+    margin-left: 522px;
+    font-size: 12px;
+}
+.register_con_box .zcbtn{
+    background: orangered;
+    color: white;
+    }
+#tipCodeForEmail{
+    width: 110px;
+}
+.input_tips{
+    background: url(https://s.neweggimages.com.cn/WebResources/2009/Default/Nest/img/icon_logoin_s.png) no-repeat 0 0;
+    position: absolute;
+    padding-left: 17px;
+    font-size: 12px;
+    vertical-align: middle;
+}
+.input_usrname_wrong{
+    background-position: 1px -37px;
+    color: #F60;
+    // display: none;
+}
+.yang{
+    top: 10px;
+}
+.register_con_box em {
+    top: 8px;
+    text-align: left;
+    width: 360px;
+    height: 20px;
+    line-height: 13px;
+   display: none;
+}
+.input_usrname_right{
+    background-position: 0 -19px;
+}
+.psw{
+    height: 30px;
+    width: 255px;
+    line-height: 30px;
+    border: 1px solid #cfcfcf;
+    text-indent: 5px;
+    overflow: hidden;
+    background: #F9F9F9;
+    // display: inline-blockl;
+}
+// #shuruzhen{
+
+// }

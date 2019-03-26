@@ -1,0 +1,226 @@
+#loging{
+    height: 438px;
+    background: #e3e3e3;
+    padding: 45px 0px;
+}  
+.header_titli{
+    float: left;
+    font: 24px/49px microsoft yahei;
+    margin: -3px 0 0 25px;
+    padding-left: 26px;
+    border-left: 1px solid #D9D9D9;
+    color: #484848;
+}
+.loging_l{
+    width: 547px;
+}
+.wraper{
+    width: 980px;
+}
+.footer a:nth-child(2){
+    width: 0;
+}
+.loging_r{
+    width: 360px;
+    height: 396px;
+    background: white;
+}
+
+/*  */
+.logoin_center .logoin_r {
+    width: 360px;
+}
+.logoin_center .logoin_r {
+    float: right;
+}
+.logoin_r {
+    background: #FFF;
+    border: 1px solid #CCC;
+    float: left;
+    padding: 20px 0;
+    width: 380px;
+}
+.logoin_r .logoin_r_c1 {
+    border-bottom: 0;
+}
+.logoin_r_c1 {
+    padding: 25px 30px 15px 30px;
+}
+.logoin_title {
+    height: 21px;
+    margin-bottom: 23px;
+}
+.logoin_r .logoin_r_c1 .logoin_form li {
+    width: auto;
+}
+.logoin_r_c1 .logoin_form li {
+    width: 350px;
+}
+.logoin_form li {
+    position: relative;
+    float: left;
+}
+.logoin_form li {
+    height: 57px;
+    overflow: hidden;
+    float: left;
+}
+h2 {
+    color: #333;
+    float: left;
+    font: 18px microsoft yahei;
+}
+.logoin_r .logoin_r_c1 .logoin_form li {
+    width: auto;
+}
+.logoin_r_c1 .logoin_form li {
+    width: 350px;
+}
+.logoin_form li {
+    position: relative;
+    float: left;
+}
+.logoin_r_c1 em{
+    position: absolute;
+    left: 10px;
+    top: 35px;
+    margin: 0;
+    text-align: left;
+    display: none;
+}
+.logoin_form li {
+    height: 57px;
+    overflow: hidden;
+    float: left;
+}
+.username_icon {
+    background: url(../images/login/login_icon.png) no-repeat center;
+    width: 30px;
+    height: 33px;
+    display: inline-block;
+    background-position: 0 0;
+    vertical-align: middle;
+}
+#LoginForm  a{
+    font-size: 11px;
+    color: #003399;
+}
+/*  */
+.logoin_r_c1 .logoin_form input {
+    width: 250px;
+    vertical-align: middle;
+    margin-left: -4px;
+    height: 31px;
+}
+.logoin_form input {
+    border: 1px solid #CFCFCF;
+    height: 30px;
+    line-height: 30px;
+    text-indent: 5px;
+    vertical-align: middle;
+    width: 256px;
+}
+.password_icon {
+    background: url(../images/login/login_icon.png) no-repeat center;
+    width: 30px;
+    height: 33px;
+    display: inline-block;
+    background-position: 0 -59px;
+    vertical-align: middle;
+}
+.logoin_r_c1 .logoin_form input {
+    width: 268px;
+    vertical-align: middle;
+    margin-left: -4px;
+    height: 31px;
+}
+.logoin_form input {
+    border: 1px solid #CFCFCF;
+    height: 30px;
+    line-height: 30px;
+    text-indent: 5px;
+    vertical-align: middle;
+    width: 256px;
+}
+.logoin_form{
+    height: 89px;
+}
+.logoin_oper{
+    height: 36px;
+}
+.logoin_operr{
+    margin-top: 15px;
+    height: 36px;
+    text-align: center;
+    line-height: 36px;
+    background: #f7661f;
+}
+.logoin_operr span{
+    cursor: pointer;
+    font-weight: 550;
+    font-size: 13px;
+}
+.loging_rc{
+    color: #666;
+    padding: 0 25px 0 30px;
+    overflow: hidden;
+}
+.loging_rc>p{
+        font-size: 12px;
+        color: #666666;
+}
+.tubiao{
+    margin-top: 11px;
+}
+.tubiao>li{
+    float: left;
+}
+.tubiao>li>a{
+    height: 30px;
+    padding-left: 33px;
+    display: inline-block;
+    color: #666666;
+    font-size: 11px;
+    padding: 0 16px 0 30px;
+    line-height: 30px;
+    margin: 4px 0;
+   
+}
+.a>a{
+   
+    background: url(../images/login/4link.png) no-repeat;
+    background-position: 0 0;
+}
+.b>a{
+    background: url(../images/login/4link.png) no-repeat;
+    background-position: 0 -45px;
+}
+.c>a{
+    background: url(../images/login/4link.png) no-repeat;
+    background-position: 0 -97px;
+}
+.d>a{
+  
+    background: url(../images/login/4link.png) no-repeat;
+    background-position: 0 -161px;
+}
+.f>a{
+    background: url(../images/login/otherLoginIcon20140616.gif) no-repeat;
+    background-position: 3px -2609px;
+}
+.e>a{
+    background: url(../images/login/otherLoginIcon20140616.gif) no-repeat;
+    background-position: 1px -2576px;
+} 
+
+.g>a{
+    background: url(../images/login/otherLoginIcon20140616.gif) no-repeat;
+    background-position: 3px -2508px;
+}
+.h>a{
+    background: url(../images/login/otherLoginIcon20140616.gif) no-repeat 0 7px;
+}
+.tubiao a:hover{
+    color: #f7661f;
+    text-decoration: underline;
+}

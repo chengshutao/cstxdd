@@ -1,0 +1,667 @@
+#leixing{
+    height: 30px;
+    line-height: 30px;
+    background: #f0f0f0;
+}
+#main{
+    height: 2000px;
+}
+#menu .menu_lxiala{
+   border-top: 0px;
+   border-bottom: 0px;
+}
+
+#leixing {
+    font-size: 12px;
+    color: #777777;
+}
+#leixing a{
+    color: #777777;
+}
+#leixing  strong{
+    color: #333333;
+}
+.main_l{
+    width: 180px;
+    height: auto;
+    box-sizing: border-box;
+}
+.main_lt{
+    border: 2px solid #f3ce76;
+    overflow: hidden;
+}
+.main_lt p{
+   background: #ffdc93;
+    height: 30px;
+    padding-left: 24px;
+    line-height: 30px;
+    font-size: 12px;
+    color: #845400;
+    /* background: url(cate_menu.png) 9px -35px no-repeat; */
+    cursor: pointer;
+    border-top: 2px solid #f3ce76;
+}
+.main_lt dt:nth-child(1){
+    border-top:0;
+}
+.main_ltt{
+    overflow: hidden;
+}
+.main_ltt dd{
+    padding-left: 34px;
+    font-size: 11px;
+    color: #666666;
+
+height: 26px;
+}
+.main_c{
+    margin-top: 20px;
+}
+.xs1 li{
+    padding: 16px 12px 16px 75px;
+    width: 92px;
+    height: 60px;
+    position: relative;
+    border-bottom: 1px solid #dbdbdb;
+} 
+.xs1 li .title{
+    height: 40px;
+    overflow: hidden;
+    word-wrap: break-word;
+    word-break: break-all;
+    margin: 4px 0;
+}  
+.main_c{
+    border: 1px solid #dbdbdb;
+} 
+.xs1 li .title a{
+    font-size: 10px;
+    line-height: 1.5;
+    color: black;
+}
+.xxkk span{
+    width:86.6px;
+    display: inline-block;
+    text-align: center;
+    /* background: #e6e6e6;
+    color: #333333; */
+    height: 30px;
+    line-height: 30px;
+    font-size: 12px;
+}
+.img{
+    position: absolute;
+    left: 5px;
+    top: 24px;
+}
+.img img{
+    width: 66px;
+    height: 58px;
+}
+.xxkk{
+    background: #e6e6e6;
+}
+.priceline .price{
+    color: #f60;
+    font-family: arial;
+    font-weight: bold;
+}
+.main_cc{
+    margin-top: 10px;
+}
+.maincc_t{
+    padding: 10px;
+    background: #ececec;
+    color: #954848;
+}
+.maincc_title{
+    padding: 5px 10px 10px;
+    font-size: 12px;
+    color: #954848;
+    font-weight: 600;
+}
+.xuan li {
+    position: relative;
+    padding: 8px 12px 8px 28px;
+    font-size: 11px;
+}
+.xuan li:nth-child(2n){
+    background: #f2f2f2;
+}
+.toupiao{
+    padding: 8px 0;
+    background: #eeeeee;
+    text-align: center;
+}
+.toupiao a{
+    font-size: 11px;
+}
+.toupiao_l{
+    padding: 0 10px;
+    height: 26px;
+    line-height: 26px;
+    background-color: #f7661f;
+    color: #fff;
+    text-align: center;
+    display: inline-block;
+    border-radius: 2px;
+    vertical-align: top;
+    margin-right: 10px;
+}
+/* main_R */
+#main11{
+    margin-top: 10px;
+}
+.main_r{
+    width: 1011px;
+    margin-left: 10px;
+    height: auto;
+}
+.main_rtop{
+    height: 185px;
+    /* background: orange; */
+    margin-bottom: 10px;
+}
+.main_rcent{
+    height: 120px;
+}
+.fengye span{
+        display: block;
+        width: 30px;
+        height: 30px;
+        background: #d8d8d8;
+        text-align: center;
+        line-height: 30px;
+        float: left;
+        margin-right: 10px;
+        cursor: pointer; 
+}
+#ccpp{
+    height: 1035px;
+}
+.fengye .fen{
+    background: orange;
+    color: #fff;
+}
+.fengye{
+    height: 60px;
+    margin-top: 30px;
+   
+}
+.main_rtop1{
+    height: 18px;
+    padding: 6px 0;
+    line-height: 18px;
+    background-color: #edf3fa;
+    border: 1px solid #ccc;
+    border-bottom: 0 none;
+    overflow: hidden;
+}
+.main_rtop1 span{
+    float: left;
+    padding-left: 22px;
+    font-weight: normal;
+    font-size: 14px
+}
+.main_rtop2 ul li{
+    margin-top: -1px;
+    padding: 9px 0 6px 90px;
+    line-height: 18px;
+    height: 21px;
+    border-top: 1px solid #e6e6e6;
+}
+.inner{
+    float: left;
+    width: 85px;
+    padding: 0 0 0 5px;
+    margin-left: -90px;
+    text-align: right;
+    font-weight: bold;
+    color: #333;
+    font-size: 12px;
+   
+}
+.innerB{
+    width: 780px;
+
+}
+.innerB>div{
+    float: left;
+    padding: 0 15px;
+    margin-bottom: 4px;
+    font-size: 12px;
+}
+.innerB a{
+    color: #666666
+}
+.innerB a span{
+    color: #e3d6cc;
+}
+.saixuns{
+    padding-left: 15px;
+    white-space: nowrap;
+}
+.saixuns input{
+    width: 36px;
+    padding: 0 3px 0 3px;
+    height: 19px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    vertical-align: top;
+}
+.saixuns .saixuan_tu{
+    color: white;
+}
+.saixuan_tu{
+    padding: 0 10px;
+    height: 22px;
+    line-height: 23px;
+    background-color: #f7661f;
+    color: white;
+    font-size: 12px;
+    border-radius: 3px;
+    display: inline-block;
+}
+.main_rtop3{
+    position: relative;
+}
+.main_rtop3t{
+    height: 35px;
+    padding: 0;
+    zoom: 1;
+    line-height: 24px;
+    border-top: 0;
+    border: 1px solid #ccc;
+}
+.main_rtop3t{
+    background: #edf3fa;
+}
+.main_rtop3t .inner{
+    margin-left: 0;
+    margin-top: 5px;
+}  
+.main_rtop3t ul{
+    float: left;
+    margin-top: 4px;
+}
+.gonneg{
+    float: left;
+    padding: 0 15px 0 7px;
+    border: 1px solid #DFDFDF;
+    background: #FFF;
+    margin-right: 10px;
+    line-height: 23px;
+    position: relative;
+    height: 23px;
+    font-size: 12px;
+}
+.main_rtop3xxk{
+    position: absolute;
+    z-index: 3;
+    width: 1011px;
+    top: 28px;
+    overflow: hidden;
+    zoom: 1;
+    clear: both;
+    background: #fff;
+
+}
+.main_rtop3xxk1 a{
+    margin-left: 30px;
+    font-size: 12px;
+    color: #ccc;
+    height: 42px;
+    display: inline-block;
+    line-height: 42px;
+}
+/*  */
+.main_rcent1{
+  height: 39px;
+  background: url(../images/liebiao/main_l/bg_funcbar.png)repeat-x;
+}
+.rcent1>a{
+    position: relative;
+    float: left;
+    height: 37px;
+    display: block;
+    margin-right: -1px;
+    padding: 0 24px 0 12px;
+    line-height: 36px;
+    font-size: 11px;
+    color: #ccc;
+    border: 1px solid #ccc;
+}
+.rcent1>a:nth-child(4){
+    width: 48px;
+}
+.rcent2>a{
+    background-color: #fff0d9;
+    border: 1px solid #f9ae45;
+    position: relative;
+    float: left;
+    width: 38px;
+    height: 37px;
+    margin-right: -1px;
+}
+.rcent2 i{
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    width: 18px;
+    height: 18px;
+    display: block;
+    background: url(../images/liebiao/main_l/icon_prorank.png) no-repeat;
+    
+}
+.rcent2_1 i{
+    background-position: left -18px;
+}
+.rcent2_2 i{
+    background-position: -18px top;
+}
+.rcent3 a:nth-child(1){
+    position: relative;
+    background-color: #fff0d9;
+    border: 1px solid #f9ae45;
+    color: #ff6c00;
+}
+.rcent3 a{
+    float: left;
+    width: 38px;
+    height: 37px;
+    margin-right: -1px;
+    line-height: 36px;
+    display: block;
+    border: 1px solid #ccc;
+    text-align: center;
+    font-size: 11px;
+    color: #ccc;
+}
+.rcent4{
+    height: 38px;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+}
+.rcent4_l{
+    padding: 6px 7px 0;
+}
+.rcent4_l input{
+   width: 180px;
+   height: 13px;
+   vertical-align: top;
+   border: 1px solid #d8d8d8;
+   padding: 5px 10px;
+   color: #b7b7b7;
+   font-size: 11px;
+}
+.shousuo{
+    background-color: #f7661f;
+    border: 1px solid #f7661f;
+    padding: 0 10px;
+    height: 23px;
+    line-height: 23px;
+   font-size: 11px;
+    color: #fff;
+    text-align: center;
+    display: inline-block;
+    border-radius: 2px;
+    vertical-align: top
+}
+.main_rcent2{
+    height: 38px;
+    padding-right: 7px;
+    border: 1px solid #ccc;
+    border-top: 0;
+    overflow: hidden;
+}
+.main_rcent3{
+    width: 1010px;
+    background: #fff;
+}
+.leib td{
+    width: 42px;
+    height: 39px;
+    border: 1px solid #cecece;
+    border-width: 0 1px 1px 0;
+}
+.leib .td1{
+    border-width: 0 1px 1px 1px;
+    width: 66px;
+    text-align: center;
+    font-size: 11px;
+    border-left: 1px solid #ccc;
+}
+.leib .td2{
+    font-size: 24px;
+    font-family: "microsoft yahei",arial;
+    font-weight: bold;
+    color: #e5e5e5;
+    text-align: center;
+}
+.leib .td3{
+    height: 39px;
+    border: 1px solid #cecece;
+    border-width: 0 1px 1px 0;
+    width: 726px;
+    padding: 0 0 0 20px;
+}
+.td3 a{
+    font-size: 11px;
+}
+.rcent2_l{
+    padding: 10px;
+}
+.rcent2_l label{
+    margin-right: 9px;
+    cursor: pointer;
+    font-size: 11px;
+    color: black;
+}
+.rcent2_l label input{
+    margin-right: 4px;
+    vertical-align: middle;
+    cursor: pointer;
+}
+.rcent2_r{
+    margin-top: 7px;
+    line-height: 24px;
+    height: 24px;
+    font-size: 0;
+    color: #999;
+}
+.rcent2_r span{
+    font-size: 12px;
+}
+.rcent2_22{
+    border: 1px solid #ddd!important;
+    color: #a6a6a6;
+    cursor: default;
+    height: 22px;
+    overflow: hidden;
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 10px;
+    width: 37px;
+    position: relative;
+}
+.yeshu{
+    height: 24px;
+    display: inline-block;
+    line-height: 24px;
+    margin: 0 0 0 5px;
+    text-decoration: none;
+}
+.rcent2_22 span{
+    background-position: left top;
+    display: inline-block;
+    line-height: 22px;
+}
+.rcent2_r a:nth-child(4){
+    width: 61px;
+    text-align: left;
+}
+.rcend_1{
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-width:5px;
+    border-style:solid;
+    border-color:transparent #333 transparent transparent;
+    left: 0;
+    top: 6px;
+}
+.rcend_2{
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-width:5px;
+    border-style:solid;
+    border-color:transparent  transparent transparent #333;
+    left: 53px;
+    top: 6px;
+}
+/* 产品 */
+#changping{
+    margin-top: 40px;
+}
+#ccpp li{
+    width: 221px;
+    padding-bottom: 20px;
+    overflow: hidden;
+    float: left;
+    padding: 0 15px;
+}
+.ccpp_img{
+    height: 168px;
+    margin: 20px 0 5px 0;
+    text-align: center;
+    position: relative;
+}
+.lianjie img{
+    width: 180px;
+    height: 135px;
+}
+.xiantian{
+    background: url(../images/liebiao/pro_l_9V1.png) no-repeat -68px -376px;
+    color: #666;
+  position: absolute;
+    font: 14px/32px simsun;
+    height: 34px;
+    width: 37px;
+    top: 134px;
+    left: 10px;
+    
+}
+.zhuankaun{
+    display: block;
+    width: 52px;
+    height: 52px;
+    overflow: hidden;
+    position: absolute;
+    right: -15px;
+    top: 0;
+}
+.ccpp_1{
+    height: 40px;
+    overflow: hidden;
+    word-wrap: break-word;
+    word-break: break-all;
+    margin: 4px 0
+}
+.ccpp_1>a{
+    color: #666;
+    font-size: 11px;
+    line-height: 1.5;
+}
+.ccpp_2{
+    height: 18px;
+    margin: 4px 0;
+    overflow: hidden;
+    word-wrap: break-word;
+    color: #84984f;
+    font-size: 11px;
+}
+.ccpp_3{
+    height: 18px;
+    line-height: 18px;
+    width: 225px;
+    margin-top: 5px;
+}
+.prom{
+    float: left;
+    width: 34px;
+    height: 18px;
+    margin-right: 3px;
+    line-height: 18px;
+    vertical-align: middle;
+    background: url(../images/liebiao/icon_pro.png) no-repeat;
+}
+.pjjj{
+    float: left;
+    padding-left: 65px;
+    height: 12px;
+    line-height: 12px;
+    font-size: 10px;
+    color: #039;
+    margin-top: 2px;
+    background: url(../images/flat_rank.gif) no-repeat left 0;
+}
+.ccpp_4{
+    height: 24px;
+    margin-top: 3px;
+}
+.ccpp_4>span{
+    font-size: 16px;
+    color: #f60;
+    font-family: arial;
+    font-weight: bold;
+}
+.ccpp_5{
+    margin-top: 15px;
+    text-align: center;
+}
+.ccpp_51{
+        padding: 0 10px;
+        height: 23px;
+        line-height: 24px;
+        font: normal 12px simsun;
+        color: #fff;
+        vertical-align: top;
+        margin-right: 5px;
+        background-color: #4f9ee7;
+      border: 1px solid #4f9ee7;
+      line-height: 23px;
+}
+.ccpp_5 a{
+    font-size: 11px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 2px;
+}
+.ccpp_52{
+    background: #fff;
+    border: 1px solid #838383;
+    color: #000;
+    font-weight: normal;
+    padding: 0 10px;
+    height: 23px;
+    
+    line-height: 24px;
+}
+.ccpp_53{
+    position: relative;
+    padding-left: 23px;
+    padding: 0 5px 0 23px;
+    border: 1px solid #838383;
+    color: #000;
+    font-weight: normal;
+    height: 23px;
+    line-height: 24px;
+}
+.ccpp_53 input{
+    position: absolute;
+    left: 4px;
+    top: 4px;
+    width: 16px;
+    height: 16px;
+}
